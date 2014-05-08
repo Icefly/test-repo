@@ -8,5 +8,4 @@ This is a test-repo
 
 * first item in list
 * seond item in list
-* third item inlist
-* 
+* third item in list
