@@ -4,4 +4,4 @@ test-repo
 This is a test-repo
 
 ## This is a testing file
-### Practive of heading
+### Practice of heading
